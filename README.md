@@ -47,9 +47,7 @@ const Reda = {
 
 **🐱 My GitHub Data** 
 
-> 🏆 641 Contributions in the Year 2022
- > 
-> 📦 171.8 kB Used in GitHub's Storage 
+> 🏆 223 Contributions in the Year 2022
  > 
 > 🚫 Not Opted to Hire
  > 
